@@ -46,6 +46,6 @@ Nossa stack é composta pelas ferramentas mais modernas e eficientes do mercado:
 
 O sucesso de nossas soluções é fruto do esforço colaborativo de nosso time:
 
-<p align="left">
-  <img src=img />
+<p align="center">
+  <img src="./img/grupo.png" alt="Grupo Big Five" width="100%" style="max-width: 800px; border-radius: 8px;" />
 </p>
