@@ -46,37 +46,6 @@ Nossa stack é composta pelas ferramentas mais modernas e eficientes do mercado:
 
 O sucesso de nossas soluções é fruto do esforço colaborativo de nosso time:
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="./img/Eduarda.webp" alt="Eduarda Aleixo" style="width: 110px; height: 110px; border-radius: 50%; border: 2px solid #581c87; object-fit: cover;"/><br />
-        <sub><b>Eduarda Aleixo</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jjeanpedro03">
-        <img src="./img/Jean.webp" alt="Jean Pedro" style="width: 110px; height: 110px; border-radius: 50%; border: 2px solid #581c87; object-fit: cover;"/><br />
-        <sub><b>Jean Pedro</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="./img/Julio.webp" alt="Julio Aguiar" style="width: 110px; height: 110px; border-radius: 50%; border: 2px solid #581c87; object-fit: cover;"/><br />
-        <sub><b>Julio Aguiar</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="./img/Lais.webp" alt="Laís Sousa" style="width: 110px; height: 110px; border-radius: 50%; border: 2px solid #581c87; object-fit: cover;"/><br />
-        <sub><b>Laís Sousa</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="./img/Wadssa.webp" alt="Wadssa Wacemberg" style="width: 110px; height: 110px; border-radius: 50%; border: 2px solid #581c87; object-fit: cover;"/><br />
-        <sub><b>Wadssa Wacemberg</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src=img />
+</p>
