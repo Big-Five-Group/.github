@@ -40,12 +40,4 @@ Nossa stack é composta pelas ferramentas mais modernas e eficientes do mercado:
 - **Tipagem Segura:** Uso rigoroso de TypeScript para garantir previsibilidade e reduzir erros em produção.
 - **Acessibilidade & Semântica:** Interfaces estruturadas para serem inclusivas e amigáveis aos mecanismos de busca.
 
----
 
-## 👥 Nosso Time — Big Five Group
-
-O sucesso de nossas soluções é fruto do esforço colaborativo de nosso time:
-
-<p align="center">
-  <img src="./img/grupo.png" alt="Grupo Big Five" width="100%" style="max-width: 800px; border-radius: 8px;" />
-</p>
