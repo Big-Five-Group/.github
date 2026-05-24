@@ -22,14 +22,18 @@ O Big Five Group unifica design inovador e engenharia de software para entregar 
 ## 🛠️ Tecnologias e Linguagens Utilizadas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,git" height="40px" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nestjs,express,react,vite,tailwind,bootstrap,mysql,postgres,nodejs,bash,npm" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="40px" />
 </p>
 
 Nossa stack é composta pelas ferramentas mais modernas e eficientes do mercado:
 
-- **Frontend:** React, TypeScript, JavaScript (ES6+), Tailwind CSS (v4), CSS3 e HTML5.
-- **Backend:** Node.js para construção de soluções lógicas e APIs escaláveis.
-- **Versionamento & Fluxo:** Git para governança de código e colaboração contínua.
+- 💻 **Frontend:** React, Vite, TypeScript, JavaScript (ES6+), Tailwind CSS (v4), Bootstrap, CSS3 e HTML5.
+- ⚙️ **Backend & Bancos:** Node.js, NestJS e Express para construção de APIs escaláveis e robustas, com persistência em MySQL e PostgreSQL.
+- 🛠️ **Ferramentas & Produtividade:** JSON para estruturação, Swagger e Insomnia para documentação e testes de endpoints, Bash e NPM para automação de scripts.
+- 🚀 **Governança:** Git para controle de versão, governança de código e colaboração contínua do time.
 
 ---
 
